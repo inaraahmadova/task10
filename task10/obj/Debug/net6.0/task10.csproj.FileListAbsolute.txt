@@ -12,3 +12,4 @@ C:\Users\Hp\Desktop\task10\task10\obj\Debug\net6.0\refint\task10.dll
 C:\Users\Hp\Desktop\task10\task10\obj\Debug\net6.0\task10.pdb
 C:\Users\Hp\Desktop\task10\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache
 C:\Users\Hp\Desktop\task10\task10\obj\Debug\net6.0\ref\task10.dll
+C:\Users\Hp\Desktop\task10\task10\obj\Debug\net6.0\task10.sourcelink.json
